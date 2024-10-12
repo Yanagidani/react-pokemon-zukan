@@ -19,6 +19,7 @@ const Navigation: React.FC = () => {
         {/* 追加のナビゲーションリンクをここに記載 */}
       </ul>
     </nav>
+    
   );
 };
 
